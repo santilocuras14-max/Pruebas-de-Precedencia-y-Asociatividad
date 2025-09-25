@@ -1,9 +1,5 @@
 # ANTLR — Pruebas de Precedencia y Asociatividad (Visitor)
 
-Entrega lista para correr con **Java + ANTLR4**. Incluye **dos gramáticas**:
-- `classic/Expr.g4` (precedencias estándar, `^` asociativa a la derecha).
-- `redesigned/ExprWeird.g4` (cambia precedencias: `+`/`-` > `*`/`/`, y `^` asociativa a la izquierda).
-
 ## Requisitos
 - Java 11+
 - ANTLR 4.13.1 (descarga el JAR y define variable de entorno `ANTLR4` con la ruta).
