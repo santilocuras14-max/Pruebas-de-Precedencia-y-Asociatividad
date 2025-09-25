@@ -1,0 +1,19 @@
+# A) Precedencia básica
+2+3*4
+(2+3)*4
+
+# B) Potencia y asociatividad
+2^3^2
+-2^2
+
+# C) Mezclas
+2+3*4^2-5
+3-1-1
+8/4/2
+
+# D) Unarios
+-3*2
+-(2+1)*2
+
+# E) Decimales
+3.5+2*10
